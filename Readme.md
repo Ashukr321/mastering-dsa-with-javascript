@@ -1,3 +1,4 @@
+```bash
 dsa-javascript-patterns/
 ├── 01-Two-Pointers/                # Pair with Target Sum, Triplet Sum
 ├── 02-Fast-Slow-Pointers/           # LinkedList Cycle, Happy Number
@@ -25,3 +26,4 @@ dsa-javascript-patterns/
 ├── 24-Union-Find/                   # Redundant Connection, Bipartite Graph
 ├── 25-Sorting-Searching-Basics/     # Quick/Merge Sort, Linear/Binary Search
 └── README.md                        # Overall roadmap and progress tracker
+```
