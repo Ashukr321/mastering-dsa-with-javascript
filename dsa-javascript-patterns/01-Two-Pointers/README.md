@@ -3,10 +3,10 @@
 ## Types of Two Pointer Patterns
 | Pattern                                | How it works                                                          | Example Problem                                  |
 | -------------------------------------- | --------------------------------------------------------------------- | ------------------------------------------------ |
-| **Opposite ends**                      | One pointer at start, one at end                                      | Find if array has two numbers that sum to target |
-| **Same direction / slow & fast**       | Both pointers move in same direction, usually one is fast, other slow | Remove duplicates, max consecutive 1s            |
-| **Sliding window**                     | Expand or shrink window using two pointers                            | Longest substring without repeating characters   |
-| **Partitioning / Dutch National Flag** | Move pointers to rearrange elements                                   | Sort colors problem                              |
+| **Opposite ends**                      | One pointer at start, one at end                                      | [Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |
+| **Same direction / slow & fast**       | Both pointers move in same direction, usually one is fast, other slow | [Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/), [Max Consecutive 1s](https://leetcode.com/problems/max-consecutive-ones/) |
+| **Sliding window**                     | Expand or shrink window using two pointers                            | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |
+| **Partitioning / Dutch National Flag** | Move pointers to rearrange elements                                   | [Sort Colors](https://leetcode.com/problems/sort-colors/) |
 
 
 ## How to identity the two pointer problem :
