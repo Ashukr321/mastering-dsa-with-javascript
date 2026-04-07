@@ -185,7 +185,7 @@ Ready for product companies / FAANG-level interviews
 ```
 
 ## Problems On Number
-    1.	Check the number is palindrome or not 
+    1.	Check the number is palindrome or not ✅
     2.	Find all palindrome numbers in given range
     3.	Check the number is prime or not 
     4.	Prime number in given range 
